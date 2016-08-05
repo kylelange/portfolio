@@ -1,7 +1,12 @@
 /*Universal Selectors*/
 
-h1 {
+body {
+  background-color: #ffffcc;
+  background-image: url(img/paper.jpg);
+}
 
+h1 {
+  padding-left: 15px;
 }
 
 h2 {
@@ -9,14 +14,38 @@ h2 {
 }
 
 p {
-  padding-top: 100px;
+  padding: 100px 0 0 15px;
+  text-align: justify;
+  font-size: 1.2em;
+  line-height: 25px;
 }
 
 span {
   font-size: 50px;
 }
 
+ul {
+  list-style-type: georgian;
+  color: rgb(153, 0, 0);
+  padding-left: 100px
+}
+
+li {
+  font-size: 1.2em;
+  line-height: 25px;
+}
+
+footer {
+  padding: 0 0 50px 18%;
+}
+
 /*Class Selectors*/
+
+.no-bullet {
+  list-style-type: none;
+  font-style: oblique;
+  padding-left: 25px;
+}
 
 /*Id Selectors*/
 
@@ -24,10 +53,18 @@ span {
   float: right;
   width:490px;
   height:700px;
+  padding: 10px 0 0 0;
+  border-radius: 3%;
 }
 
 #arrow {
-  padding-top: 180px;
+  padding-top: 153px;
+}
+
+#ms-poems {
+  border: 2px solid rgba(255, 0, 0, 0.5);
+  padding-right: 150px;
+  max-width: 900px;
 }
 
 /*Gradient Test
