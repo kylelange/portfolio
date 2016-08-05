@@ -1,7 +1,8 @@
 /*Universal Selectors_____________________*/
+
 header {
   padding-top: 54px;
-  border: 2px solid rgba(255, 0, 0, 0.5);
+  border: 2px solid rgba(153, 0, 0, 0.7);
   max-width: 1268px;
 }
 
@@ -21,7 +22,6 @@ h2 {
 h4 {
   float: left;
   padding-left: 20px;
-
 }
 
 p {
@@ -35,6 +35,7 @@ p {
 span {
   font-size: 50px;
 }
+
 ol {
   padding-top: 35px;
 }
@@ -48,6 +49,10 @@ ul {
 li {
   font-size: 1.2em;
   line-height: 25px;
+}
+
+a {
+  color: #214994;
 }
 
 footer {
@@ -73,12 +78,12 @@ footer {
 }
 
 #arrow {
-  padding-top: 153px;
+  padding-top: 154px;
 }
 
 #ms-poems {
   padding-left: 10px;
-  border: 2px solid rgba(255, 0, 0, 0.5);
+  border: 2px solid rgba(153, 0, 0, 0.7);
   max-width: 1283px;
 }
 
@@ -91,7 +96,6 @@ footer {
   padding-left: 200px;
 }
 
-
 #poem h2 {
   padding-right: 200px;
 }
@@ -100,31 +104,3 @@ footer {
   text-align: center;
   padding-top: 50px;
 }
-
-/*Gradient border Test--------------------------------*/
-
-/*.knockout-around {
-  position: relative;
-}
-.knockout-around:before, .knockout-around:after {
-  content: "";
-  position: absolute;
-}
-.knockout-around:before {
-  top: -3px;
-  left: -3px;
-  right: -3px;
-  bottom: -3px;
-  background-image: -webkit-gradient(radial, right top, 10, 90% 0%, 150, from(#000), to(transparent));
-  background-image: -webkit-radial-gradient(right top, 150px 230px, #000, transparent);
-  background-image: -moz-radial-gradient(right top, farthest-corner, #000 0%, transparent 72%);
-  z-index: -2;
-}
-.knockout-around:after {
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background: #a4b9ff;
-  z-index: -1;
-}*/

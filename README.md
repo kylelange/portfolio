@@ -10,9 +10,9 @@ _{This is a virtual island to learn more about Kyle Lange, find his twitter hand
 
 ## Setup/Installation Requirements
 
-* _clone this repository_
+* _clone the repository_
 * _use Git Clone in your terminal and make sure to link to my [github site]: (http://github.com/kylelange)_
-* _check your git log to see all of our commits!_
+* _check your git log to see all of my commits!_
 * _use git remote -v to make sure you are the origin user_
 * _don't forget to open atom with: atom ._
 
@@ -21,7 +21,7 @@ _{This is a virtual island to learn more about Kyle Lange, find his twitter hand
 
 _There are no known bugs in this program as of Aug. 5, 2016_
 
-## Support and contact details
+## Support and Contact Details
 
 _Any issues with this site, please [e-mail me] (baronsintrees@gmail.com) here._
 
