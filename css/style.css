@@ -1,0 +1,42 @@
+/*Universal Selectors*/
+
+h1 {
+
+}
+
+h2 {
+  float:right;
+}
+
+p {
+  padding-top: 100px;
+}
+
+span {
+  font-size: 50px;
+}
+
+/*Class Selectors*/
+
+/*Id Selectors*/
+
+#kyle-photo {
+  float: right;
+  width:490px;
+  height:700px;
+}
+
+#arrow {
+  padding-top: 180px;
+}
+
+/*Gradient Test
+
+background: rgba(212,228,239,0.99);
+background: -moz-linear-gradient(left, rgba(212,228,239,0.99) 0%, rgba(92,0,230,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(212,228,239,0.99)), color-stop(100%, rgba(92,0,230,1)));
+background: -webkit-linear-gradient(left, rgba(212,228,239,0.99) 0%, rgba(92,0,230,1) 100%);
+background: -o-linear-gradient(left, rgba(212,228,239,0.99) 0%, rgba(92,0,230,1) 100%);
+background: -ms-linear-gradient(left, rgba(212,228,239,0.99) 0%, rgba(92,0,230,1) 100%);
+background: linear-gradient(to right, rgba(212,228,239,0.99) 0%, rgba(92,0,230,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e4ef', endColorstr='#5c00e6', GradientType=1 );*/

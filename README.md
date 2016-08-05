@@ -2,7 +2,7 @@
 
 #### Hello, I'm Kyle
 
-#### by Kyle Lange 
+#### by Kyle Lange
 
 ## Description
 
@@ -23,7 +23,7 @@ _There are no known bugs in this program as of Aug. 5, 2016_
 
 ## Support and contact details
 
-_Any issues with this site, please [e-mail me] (baronsintrees@gmail.com) here.
+_Any issues with this site, please [e-mail me] (baronsintrees@gmail.com) here._
 
 ## Technologies Used
 
