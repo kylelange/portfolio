@@ -1,8 +1,13 @@
 /*Universal Selectors_____________________*/
+header {
+  padding-top: 54px;
+  border: 2px solid rgba(255, 0, 0, 0.5);
+  max-width: 1268px;
+}
 
 body {
+  background-image: url("img/legal_pad.jpg");
   background-color: #ffffcc;
-  background-image: url(img/paper.jpg);
 }
 
 h1 {
@@ -20,6 +25,7 @@ h4 {
 }
 
 p {
+  background-image: url("img/paper.jpg");
   text-align: justify;
   font-size: 1.2em;
   line-height: 25px;
@@ -62,7 +68,7 @@ footer {
   float: right;
   width:490px;
   height:700px;
-  padding: 10px 0 0 0;
+  /*padding: 10px 0 0 0;*/
   border-radius: 3%;
 }
 
@@ -74,7 +80,10 @@ footer {
   padding-left: 10px;
   border: 2px solid rgba(255, 0, 0, 0.5);
   max-width: 1283px;
+}
 
+#rather {
+  padding-top: 5px;
 }
 
 #poem p {
