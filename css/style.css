@@ -7,8 +7,8 @@ header {
 }
 
 body {
-  background-image: url("img/legal_pad.jpg");
-  background-color: #ffffcc;
+  background-image: url("../img/legal_pad.jpg");
+  /*background-color: #ffffcc;*/
 }
 
 h1 {
@@ -25,7 +25,6 @@ h4 {
 }
 
 p {
-  background-image: url("img/paper.jpg");
   text-align: justify;
   font-size: 1.2em;
   line-height: 25px;
@@ -81,6 +80,10 @@ footer {
   padding-top: 154px;
 }
 
+#git-link {
+  padding: 15px, 0, 0, 15px;
+}
+
 #ms-poems {
   padding-left: 10px;
   border: 2px solid rgba(153, 0, 0, 0.7);
@@ -106,3 +109,22 @@ footer {
 }
 
 /*Media Queries -------------------------------*/
+
+@media only screen and (max-width: 1200px){
+  #arrow{
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1000px){
+  body {
+    text-align: center;
+    max-width: 850px;
+  }
+  #kyle-photo {
+    width:490px;
+    height:700px;
+    /*padding: 10px 0 0 0;*/
+    border-radius: 3%;
+  }
+}
