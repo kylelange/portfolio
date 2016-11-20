@@ -1,50 +1,41 @@
-#A Portfolio: The Kyle Lange Edition
+# _Portfolio _
 
-#### Hello, I'm Kyle
+#### _A practice portfolio site, {Aug, 2016}_
 
-#### by Kyle Lange
+#### See it live [HERE](https://kylelange.github.io/portfolio-test/).
+_
+
+#### By _**Kyle Lange**_
+
+![screenshot](Screen Shot.png)
 
 ## Description
 
-_{This is a virtual island to learn more about Kyle Lange, find his twitter handle, and see a few nascent projects he has completed}_
-
 ## Setup/Installation Requirements
 
-* _clone the repository_
-* _use Git Clone in your terminal and make sure to link to my [github site]: (http://github.com/kylelange)_
-* _check your git log to see all of my commits!_
-* _use git remote -v to make sure you are the origin user_
-* _don't forget to open atom with: atom ._
+1. Download this repo using your terminal: git clone repo-name pasted here
 
+2. View the code by drag-and-dropping the file into your [favorite text editor](https://atom.io)
+
+3. run/check-out the program by dropping the index/html file from your folder into your web browser
 
 ## Known Bugs
 
-_There are no known bugs in this program as of Aug. 5, 2016_
+_There are no known bugs as of the last commit. Please send an ISSUE on github in the repository if you see something I have not._
 
-## Support and Contact Details
+## Support and contact details
 
-_Any issues with this site, please [e-mail me] (baronsintrees@gmail.com) here._
+For questions, concerns, or suggestions please email baronsintrees@gmail.com
+
 
 ## Technologies Used
 
-1. **html**
-2. **CSS and Bootstrap**
-3. **The human brain**
+* HTML5
+* CSS3/Bootstrap
+
 
 ### License
 
+*This software is licensed under the MIT license.*
 
 Copyright (c) 2016 **_Kyle Lange_**
-
-This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
